@@ -18,10 +18,11 @@ whoami = [
 
 social = [
     "<br>",
-    "YouTube: <a href=\"" + youtube + "\" target=\"_blank\">youtube</a>",
-    "LinkedIn: <a href=\"" + linkedin + "\" target=\"_blank\">linkedin</a>",
-    "Instagram: <a href=\"" + instagram + "\" target=\"_blank\">instagram</a>",
-    "GitHub: <a href=\"" + github + "\" target=\"_blank\">github</a>",
+    "YouTube: <a href=\"" + youtube + "\" target=\"_blank\">YouTube</a>",
+    "LinkedIn: <a href=\"" + linkedin + "\" target=\"_blank\">Linkedin</a>",
+    "Instagram: <a href=\"" + instagram + "\" target=\"_blank\">Instagram</a>",
+    "GitHub: <a href=\"" + github + "\" target=\"_blank\">Github</a>",
+    "Hack The Box: <a herf='https://app.hackthebox.com/profile/1104708' target='_blank'>Hack The Box </a>",
     "<br>"
 ];
 
