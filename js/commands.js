@@ -28,7 +28,7 @@ social = [
 
 projects = [
   "<br>",
-  "Still curating... most projects are offline, on GitHub, or confidential.",
+  "It will be soon connected with github...",
   "<br>"
 ];
 
