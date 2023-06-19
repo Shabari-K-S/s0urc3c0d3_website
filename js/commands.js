@@ -22,7 +22,7 @@ social = [
     "LinkedIn: <a href=\"" + linkedin + "\" target=\"_blank\">Linkedin</a>",
     "Instagram: <a href=\"" + instagram + "\" target=\"_blank\">Instagram</a>",
     "GitHub: <a href=\"" + github + "\" target=\"_blank\">Github</a>",
-    "Hack The Box: <a herf='https://app.hackthebox.com/profile/1104708' target='_blank'>Hack The Box </a>",
+    "Hack The Box: <a herf=\"https://app.hackthebox.com/profile/1104708\" target=\"_blank\">Hack The Box </a>",
     "<br>"
 ];
 
