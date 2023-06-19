@@ -1,7 +1,7 @@
 var youtube = "https://www.youtube.com/channel/UCJWp7G3LM2-b2tFMT-eyrAA";
 var linkedin = "https://www.linkedin.com/in/shabari-k-s-56421822a/";
 var instagram = "https://www.instagram.com/_.sourcecode._/";
-var github = "https://github.com/Shabari_K_S/";
+var github = "https://github.com/Shabari-K-S/";
 var email = 'mailto:forrest@fkcodes.com';
 
 whois = [
