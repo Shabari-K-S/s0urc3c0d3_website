@@ -82,7 +82,7 @@ h1 span{
     margin-bottom: 20px;
     color: rgb(131, 225, 36);
 }
-h3{
+.connect h3{
     margin-top: 110px;
     font-size: 1.5rem;
     margin-bottom: 20px;
@@ -149,4 +149,7 @@ img:hover{
     h1 span{
         font-size: 32px;
     }
-  }
+}
+.wb-nw{
+    border-radius: 10px;
+}
