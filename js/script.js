@@ -15,6 +15,7 @@ const projectscontent = document.querySelector('#projects');
 about.addEventListener('click', () => {
     const aboutbox = new WinBox({
         title: 'shabari@s0urc3c0d3:~/about-me$:',
+        modal: true,
         width: '400px',
         height: '400px',
         top: 10,
@@ -34,6 +35,7 @@ about.addEventListener('click', () => {
 contact.addEventListener('click', () => {
     const contactbox = new WinBox({
         title: 'shabari@s0urc3c0d3:~/contact-me$:',
+        modal: true,
         width: '400px',
         height: '400px',
         top: 10,
@@ -53,6 +55,7 @@ contact.addEventListener('click', () => {
 projects.addEventListener('click', () => {
     const projectsbox = new WinBox({
         title: 'shabari@s0urc3c0d3:~/projects$:',
+        modal: true,
         width: '400px',
         height: '400px',
         top: 10,
