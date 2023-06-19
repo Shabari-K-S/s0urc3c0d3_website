@@ -6,7 +6,7 @@ var email = 'mailto:forrest@fkcodes.com';
 
 whois = [
     "<br>",
-    "Source Code is a software development company that specializes in building web and mobile applications.",
+    "Source Code is not a company. We are Programmers in whole another level. Nothing is Impossible.",
     "<br>"
 ];
 
