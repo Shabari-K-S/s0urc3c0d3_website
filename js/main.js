@@ -88,7 +88,6 @@ function commander(cmd) {
     case "banner":
       loopLines(banner, "", 80);
       break;
-    // socials
     case "youtube":
       addLine("Opening YouTube...", "color2", 80);
       newTab(youtube);
@@ -105,7 +104,59 @@ function commander(cmd) {
       addLine("Opening GitHub...", "color2", 0);
       newTab(github);
       break;
-    default:
+    case "htb":
+      addLine("Opening Hack The Box...", "color2", 0);
+      newTab(htb);
+      break;
+    case "skills":
+      loopLines(skills, "color2 margin", 80);
+      break;
+    case "project-1":
+      loopLines(project_1, "color2 margin", 80);
+      break;
+    case "project-2":
+      loopLines(project_2, "color2 margin", 80);
+      break;
+      case "project-3":
+        loopLines(project_3, "color2 margin", 80);
+        break;
+      case "project-4":
+        loopLines(project_4, "color2 margin", 80);
+        break;
+      case "project-5":
+        loopLines(project_5, "color2 margin", 80);
+        break;
+      case "project-6":
+        loopLines(project_6, "color2 margin", 80);
+        break;
+      case "project-7":
+        loopLines(project_7, "color2 margin", 80);
+        break;
+      case "project-8":
+        loopLines(project_8, "color2 margin", 80);
+        break;
+      case "project-9":
+        loopLines(project_9, "color2 margin", 80);
+        break;
+      case "project-10":
+        loopLines(project_10, "color2 margin", 80);
+        break;
+      case "project-11":
+        loopLines(project_11, "color2 margin", 80);
+        break;
+      case "project-12":
+        loopLines(project_12, "color2 margin", 80);
+        break;
+      case "project-13":
+        loopLines(project_13, "color2 margin", 80);
+        break;
+      case "project-14":
+        loopLines(project_14, "color2 margin", 80);
+        break;
+      case "project-15":
+        loopLines(project_15, "color2 margin", 80);
+        break;
+      default:
       addLine("<span class=\"inherit\">Command not found. For a list of commands, type <span class=\"command\">'help'</span>.</span>", "error", 100);
       break;
   }
