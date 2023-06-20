@@ -35,7 +35,8 @@ project_3 = [
 project_4 = [
   "<br>",
   "<span class=\"command\">Project 4:</span> Simple Login Page using tkinter",
-  "<span class=\"command\">Description:</span> This is a python program which is used to create a simple login page using the tkinter module.",
+  "<span class=\"command\">Description:</span> This is a python program which is used to create a simple",
+  "              login page using the tkinter module.",
   "<span class=\"command\">Technologies Used:</span> Python",
   "<span class=\"command\">GitHub Link:</span> <a href=\"https://github.com/Shabari-K-S/Simple_login_page_python\" target=\"_blank\">Simple Login Page using tkinter</a>",
   "<br>"
@@ -44,7 +45,8 @@ project_4 = [
 project_5 = [
   "<br>",
   "<span class=\"command\">Project 5:</span> Google Search Engine Clone using HTML and CSS",
-  "<span class=\"command\">Description:</span> This is a HTML and CSS program which is used to create a clone of the Google Search Engine.",
+  "<span class=\"command\">Description:</span> This is a HTML and CSS program which is used to create",
+  "              a clone of the Google Search Engine.",
   "<span class=\"command\">Technologies Used:</span> HTML, CSS",
   "<span class=\"command\">GitHub Link:</span> <a href=\"https://github.com/Shabari-K-S/Google_Clone_html_css\" target=\"_blank\">Google Search Engine Clone using HTML and CSS</a>",
   "<br>"
@@ -71,7 +73,8 @@ project_7 = [
 project_8 = [
   "<br>",
   "<span class=\"command\">Project 8:</span> Morse Code Translator using Python",
-  "<span class=\"command\">Description:</span> This is a python program which is used to translate the Morse Code to English and vice versa.",
+  "<span class=\"command\">Description:</span> This is a python program which is used to translate the ",
+  "              Morse Code to English and vice versa.",
   "<span class=\"command\">Technologies Used:</span> Python",
   "<span class=\"command\">GitHub Link:</span> <a href=\"https://github.com/Shabari-K-S/Morse_code_python\" target=\"_blank\">Morse Code Translator using Python</a>",
   "<br>"
@@ -89,7 +92,8 @@ project_9 = [
 project_10 = [
   "<br>",
   "<span class=\"command\">Project 10:</span> Weather Forecasting Windows Application",
-  "<span class=\"command\">Description:</span> This is a windows application which is used to forecast the weather of a particular city. It uses the OpenWeatherMap API to fetch the weather data and display it to the user.",
+  "<span class=\"command\">Description:</span> This is a windows application which is used to forecast the weather of a particular city.",
+  "              It uses the OpenWeatherMap API to fetch the weather data and display it to the user.",
   "<span class=\"command\">Technologies Used:</span> Python, OpenWeatherMap API",
   "<span class=\"command\">GitHub Link:</span> <a href=\"https://github.com/Shabari-K-S/Weather_forecasting_gui_python\" target=\"_blank\">Weather Forecasting Windows Application</a>",
   "<br>"
@@ -107,7 +111,8 @@ project_11 = [
 project_12 = [
   "<br>",
   "<span class=\"command\">Project 12:</span> Movie Recommendation System using Python",
-  "<span class=\"command\">Description:</span> This is a python program which is used to recommend movies to the user based on the movie that the user has watched.",
+  "<span class=\"command\">Description:</span> This is a python program which is used to recommend movies to ",
+  "              the user based on the movie that the user has watched.",
   "<span class=\"command\">Technologies Used:</span> Python, Machine Learning, Streamlit",
   "<span class=\"command\">GitHub Link:</span> <a href=\"https://github.com/Shabari-K-S/movie-recomndation-system\" target=\"_blank\">Movie Recommendation System using Python</a>",
   "<br>"
@@ -116,7 +121,8 @@ project_12 = [
 project_13 = [
   "<br>",
   "<span class=\"command\">Project 13:</span> House price prediction using Python and Machine Learning",
-  "<span class=\"command\">Description:</span> This is a python program which is used to predict the price of a house based on the features of the house.",
+  "<span class=\"command\">Description:</span> This is a python program which is used to predict the price of a ",
+  "              house based on the features of the house.",
   "<span class=\"command\">Technologies Used:</span> Python, Machine Learning, Streamlit",
   "<span class=\"command\">GitHub Link:</span> <a href=\"https://github.com/Shabari-K-S/House-Price-Prediction\" target=\"_blank\">House price prediction using Python and Machine Learning</a>",
   "<br>"
@@ -125,7 +131,8 @@ project_13 = [
 project_14 = [
   "<br>",
   "<span class=\"command\">Project 14:</span> Student Mark Prediction using Python and Machine Learning",
-  "<span class=\"command\">Description:</span> This is a python program which is used to predict the marks of a student based on the number of hours the student has studied.",
+  "<span class=\"command\">Description:</span> This is a python program which is used to predict the marks of a student",
+  "              based on the number of hours the student has studied.",
   "<span class=\"command\">Technologies Used:</span> Python, Machine Learning, Streamlit",
   "<span class=\"command\">GitHub Link:</span> <a href=\"https://github.com/Shabari-K-S/Student-Mark-prediction\" target=\"_blank\">Student Mark Prediction using Python and Machine Learning</a>",
   "<br>"
@@ -134,7 +141,8 @@ project_14 = [
 project_15 = [
   "<br>",
   "<span class=\"command\">Project 15:</span> Doctor Appointment System using Python",
-  "<span class=\"command\">Description:</span> This is a python program which is used to create a doctor appointment system. For more detail click the link below. you will be redirected to the app.",
+  "<span class=\"command\">Description:</span> This is a python program which is used to create a doctor appointment system.",
+  "              For more detail click the link below. you will be redirected to the app.",
   "<span class=\"command\">Technologies Used:</span> Python, Streamlit",
   "<span class=\"command\">App Link:</span> <a href=\"https://shabari-k-s-doc-appointment-app-vwk2em.streamlit.app\" target=\"_blank\">Doctor Appointment System using Python</a>",
   "<br>"
@@ -175,7 +183,9 @@ social = [
 
 projects = [
   "<br>",
-  "id            Project",
+  "<span class=\"command\">id            Project</span>",
+  "==            =======",
+  "<br>",
   "1             Encryption and Decryption of Messages using Python",
   "2             Calculator using tkinter",
   "3             Notepad using tkinter",
