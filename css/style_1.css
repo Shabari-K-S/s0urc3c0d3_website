@@ -97,13 +97,13 @@ p {
     }
 }
 .index {
-    color: #d7d726;
+    color: #d79926;
 }
 .color2 {
     color: #3d88c9;
 }
 .command {
-    color: #0a7a8e;
+    color: #ff8c2e;
     text-shadow: 0 0 3px #193135; 
 }
 .error {
@@ -120,7 +120,7 @@ a {
     text-decoration: inherit;
 }
 a:hover {
-    background: #1dcbea;
+    background: #eab01d;
     color: #182430;
 }
 a:focus {
