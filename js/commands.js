@@ -166,7 +166,8 @@ skills = [
   "<span class=\"command\">Frameworks:</span>                Bootstrap",
   "<span class=\"command\">Databases:</span>                 MySQL",
   "<span class=\"command\">Operating Systems:</span>         Windows, Linux",
-  "<span class=\"command\">Tools:</span>                     Git, GitHub, VS Code, PyCharm, Sublime Text",
+  "<span class=\"command\">Tools:</span>                     Git, GitHub, VS Code, PyCharm, Anaconda, Sublime Text, Metasploit, Burp Suite, Wireshark, Nmap, SQLMap,",
+  "                            John the Ripper, Hashcat, Aircrack-ng, WPScan, Dirb, Dirbuster, Gobuster, OSINT Framework, Maltego, etc.",
   "<br>"
 ];
 
