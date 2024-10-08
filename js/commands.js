@@ -150,7 +150,11 @@ project_15 = [
 
 whois = [
     "<br>",
-    "Source Code is not a company. We are Programmers in whole another level. Nothing is Impossible.",
+    "I am Shabari K S, a Computer Science student and a self-taught programmer. I am passionate about learning new technologies and",
+    "implementing them in real-world applications. I am also a YouTuber and a content creator. I create programming tutorials and I ",
+    "share my knowledge with the community. I am also a HackTheBox player and a cybersecurity enthusiast.",
+    "<br>",
+    "I am currently pursuing my Bachelor's degree in Computer Science and Engineering at the Knowledge Institute of Technology, Salem.",
     "<br>"
 ];
 
@@ -162,12 +166,10 @@ whoami = [
 
 skills = [
   "<br>",
-  "<span class=\"command\">Programming Languages:</span>     Python, C, C++, Java, HTML, CSS, JavaScript",
-  "<span class=\"command\">Frameworks:</span>                Bootstrap",
+  "<span class=\"command\">Programming Languages:</span>     Python, C, C++, Java, HTML, CSS, JavaScript, ASM",
+  "<span class=\"command\">Frameworks:</span>                Bootstrap, Tailwind CSS, Streamlit, Tkiner",
   "<span class=\"command\">Databases:</span>                 MySQL",
   "<span class=\"command\">Operating Systems:</span>         Windows, Linux",
-  "<span class=\"command\">Tools:</span>                     Git, GitHub, VS Code, PyCharm, Anaconda, Sublime Text, Metasploit, Burp Suite, Wireshark, Nmap, SQLMap,",
-  "                            John the Ripper, Hashcat, Aircrack-ng, WPScan, Dirb, Dirbuster, Gobuster, OSINT Framework, Maltego, etc.",
   "<br>"
 ];
 

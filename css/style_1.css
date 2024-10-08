@@ -4,18 +4,18 @@ body {
     min-height: 99%;
     width: 100%;
     min-width: 550px;
-    color: #c64444;
-    background: #262b2c;
+    color: #ff506e;
+    background: #1d1d1d;
     font-family: cursor, monospace;
     overflow-x: hidden;
 }
 ::selection {
     color: #211830;
-    background-color: #c64444;
+    background-color: #ff506e;
 }
 ::-moz-selection {
     color: #211830;
-    background-color: #c64444;
+    background-color: #ff506e;
 }
 textarea {
     left: -1000px;
@@ -60,7 +60,7 @@ b {
     opacity: 0;
 }
 #liner::before {
-    color: #c64444;
+    color: #ff506e;
     content: "shabari@s0urc3c0d3:~$";
 }
 @keyframes show {
@@ -88,6 +88,9 @@ p {
 .margin {
     margin-left: 20px;
 }
+#texter {
+    color: #16ecec;
+}
 @keyframes typing {
     from {
       width: 0;
@@ -100,19 +103,20 @@ p {
     color: #d79926;
 }
 .color2 {
-    color: #3d88c9;
+    color: #277fff;
+    text-shadow: 0 0 2px #277fff;
 }
 .command {
     color: #ff8c2e;
-    text-shadow: 0 0 3px #cbc210; 
+    text-shadow: 0 0 2px #cbc210; 
 }
-.error {
+.inherit {
     color: #fff;
 }
 .white {
     color: #fff;
 }
-.inherit,
+.error,
   a {
     color: #16ecec;
 }
