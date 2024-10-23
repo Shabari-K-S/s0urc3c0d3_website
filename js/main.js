@@ -84,7 +84,6 @@ function commander(cmd) {
         terminal.innerHTML = '<a id="before"></a>';
         before = document.getElementById("before");
       }, 1);
-      break;
     case "banner":
       loopLines(banner, "", 80);
       break;

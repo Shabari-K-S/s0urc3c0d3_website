@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 body {
     margin: 0;
     padding: 15px 20px;
@@ -6,7 +7,7 @@ body {
     min-width: 550px;
     color: #ff506e;
     background: #1d1d1d;
-    font-family: cursor, monospace;
+    font-family: 'Courier Prime', monospace;
     overflow-x: hidden;
 }
 ::selection {
