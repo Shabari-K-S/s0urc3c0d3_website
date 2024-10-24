@@ -7,146 +7,146 @@ var htb = 'https://app.hackthebox.com/profile/1104708';
 
 project_1 = [
   "<br>",
-  "<span class=\"command\">Project 1:</span> Encryption and Decryption of Messages using Python",
-  "<span class=\"command\">Description:</span> This is a python program which is used to encrypt and decrypt messages using the Caesar Cipher technique.",
-  "<span class=\"command\">Technologies Used:</span> Python",
-  "<span class=\"command\">GitHub Link:</span> <a href=\"https://github.com/Shabari-K-S/Encryption_-_Decryption_With_Python\" target=\"_blank\">Encryption and Decryption of Messages using Python</a>",
+  "Project: Encryption and Decryption using python (Ceaser Cipher)",
+  "Description: This project is a simple encryption and decryption program that uses the Ceaser Cipher algorithm. ",
+  "             The program takes a string as input and encrypts it using the Ceaser Cipher algorithm. ",
+  "             The encrypted string is then decrypted back to the original string using the same algorithm.",
+  "Technologies used: Python",
+  "Source Code: <a href=\"https://github.com/Shabari-K-S/Encryption_-_Decryption_With_Python\" target=\"_blank\">Github</a>",
   "<br>"
-];
+]
 
 project_2 = [
   "<br>",
-  "<span class=\"command\">Project 2:</span> Calculator using tkinter",
-  "<span class=\"command\">Description:</span> This is a python program which is used to create a calculator using the tkinter module.",
-  "<span class=\"command\">Technologies Used:</span> Python",
-  "<span class=\"command\">GitHub Link:</span> <a href=\"https://github.com/Shabari-K-S/Calculator_using_tkinter\" target=\"_blank\">Calculator using tkinter</a>",
+  "Project: ChatRoom using html, css, javascript and firebase",
+  "Description: This project is a simple chatroom application that allows users to chat with each other in real-time. ",
+  "             The application uses HTML, CSS, and JavaScript for the frontend and Firebase for the backend. ",
+  "             The application allows users to create a new chatroom or join an existing chatroom. ",
+  "             The application also allows users to send messages to each other in the chatroom. ",
+  "Technologies used: HTML, CSS, JavaScript, Firebase",
+  "Source Code: <a href=\"https://github.com/Shabari-K-S/chatroom_testalpha\" target=\"_blank\">Github</a>",
   "<br>"
-];
+]
 
 project_3 = [
   "<br>",
-  "<span class=\"command\">Project 3:</span> Notepad using tkinter",
-  "<span class=\"command\">Description:</span> This is a python program which is used to create a notepad using the tkinter module.",
-  "<span class=\"command\">Technologies Used:</span> Python",
-  "<span class=\"command\">GitHub Link:</span> <a href=\"https://github.com/Shabari-K-S/notepad_using_tkinter\" target=\"_blank\">Notepad using tkinter</a>",
+  "Project: Weather Forecast using Python (Tkinter) and openweathermap api",
+  "Description: This project is a simple weather forecast application that allows users to check the weather for a specific city. ",
+  "             The application uses Python and Tkinter for the frontend and OpenWeatherMap API for the backend. ",
+  "             The application allows users to enter a city name and get the current weather and forecast for that city. ",
+  "Technologies used: Python, Tkinter, OpenWeatherMap API",
+  "Source Code: <a href=\"https://github.com/Shabari-K-S/Weather_forecasting_gui_python\" target=\"_blank\">Github</a>",
   "<br>"
-];
+]
 
 project_4 = [
   "<br>",
-  "<span class=\"command\">Project 4:</span> Simple Login Page using tkinter",
-  "<span class=\"command\">Description:</span> This is a python program which is used to create a simple",
-  "              login page using the tkinter module.",
-  "<span class=\"command\">Technologies Used:</span> Python",
-  "<span class=\"command\">GitHub Link:</span> <a href=\"https://github.com/Shabari-K-S/Simple_login_page_python\" target=\"_blank\">Simple Login Page using tkinter</a>",
+  "Project: Student Registration form using Python (CustomTkinter)",
+  "Description: This project is a simple student registration form that allows users to register a new student. ",
+  "Technologies used: Python, CustomTkinter",
+  "Source Code: <a href=\"https://github.com/Shabari-K-S/Student_Registration_from_python\" target=\"_blank\">Github</a>",
   "<br>"
-];
+]
 
 project_5 = [
   "<br>",
-  "<span class=\"command\">Project 5:</span> Google Search Engine Clone using HTML and CSS",
-  "<span class=\"command\">Description:</span> This is a HTML and CSS program which is used to create",
-  "              a clone of the Google Search Engine.",
-  "<span class=\"command\">Technologies Used:</span> HTML, CSS",
-  "<span class=\"command\">GitHub Link:</span> <a href=\"https://github.com/Shabari-K-S/Google_Clone_html_css\" target=\"_blank\">Google Search Engine Clone using HTML and CSS</a>",
+  "Project: Google Search Page Clone using HTML, CSS and JavaScript",
+  "Technologies used: HTML, CSS, JavaScript",
+  "Source Code: <a href=\"https://github.com/Shabari-K-S/Google_Clone_html_css\" target=\"_blank\">Github</a>",
   "<br>"
-];
+]
 
 project_6 = [
   "<br>",
-  "<span class=\"command\">Project 6:</span> Instagram Login Clone using HTML and CSS",
-  "<span class=\"command\">Description:</span> This is a HTML and CSS program which is used to create a clone of the Instagram Login Page.",
-  "<span class=\"command\">Technologies Used:</span> HTML, CSS",
-  "<span class=\"command\">GitHub Link:</span> <a href=\"https://github.com/Shabari-K-S/insta_web_app_clone\" target=\"_blank\">Instagram Login Clone using HTML and CSS</a>",
+  "Project: Instagram Login Page Clone using HTML, CSS and JavaScript",
+  "Technologies used: HTML, CSS, JavaScript",
+  "Source Code: <a href=\"https://github.com/Shabari-K-S/instagram_loginpage_clone\" target=\"_blank\">Github</a>",
   "<br>"
-];
+]
 
 project_7 = [
   "<br>",
-  "<span class=\"command\">Project 7:</span> Mi Calculator WebApp",
-  "<span class=\"command\">Description:</span> This is a HTML and CSS program which is used to create a clone of the Mi Calculator.",
-  "<span class=\"command\">Technologies Used:</span> HTML, CSS, JavaScript",
-  "<span class=\"command\">GitHub Link:</span> <a href=\"https://github.com/Shabari-K-S/Mi_Calculator_Clone\" target=\"_blank\">Mi Calculator WebApp</a>",
+  "Project: Correcting Grammatical Error using python",
+  "Technologies used: Python",
+  "Source Code: <a href=\"https://github.com/Shabari-K-S/Correct-Grammatical-Errors-Using-Python\" target=\"_blank\">Github</a>",
   "<br>"
-];
+]
 
 project_8 = [
   "<br>",
-  "<span class=\"command\">Project 8:</span> Morse Code Translator using Python",
-  "<span class=\"command\">Description:</span> This is a python program which is used to translate the ",
-  "              Morse Code to English and vice versa.",
-  "<span class=\"command\">Technologies Used:</span> Python",
-  "<span class=\"command\">GitHub Link:</span> <a href=\"https://github.com/Shabari-K-S/Morse_code_python\" target=\"_blank\">Morse Code Translator using Python</a>",
+  "Project: Weather Forecasting App using python (Flet) for Mobile",
+  "Technologies used: Python, Flet",
+  "Source Code: <a href=\"https://github.com/Shabari-K-S/weather_app_flet_python\" target=\"_blank\">Github</a>",
   "<br>"
-];
+]
 
 project_9 = [
   "<br>",
-  "<span class=\"command\">Project 9:</span> Twitter Clone using HTML and CSS",
-  "<span class=\"command\">Description:</span> This is a HTML and CSS program which is used to create a clone of the Twitter Login Page.",
-  "<span class=\"command\">Technologies Used:</span> HTML, CSS",
-  "<span class=\"command\">GitHub Link:</span> <a href=\"https://github.com/Shabari-K-S/twitter_clone\" target=\"_blank\">Twitter Clone using HTML and CSS</a>",
+  "Project: Movie Recommendation System using python",
+  "Technologies used: Python",
+  "Source Code: <a href=\"https://github.com/Shabari-K-S/movie-recomndation-system\" target=\"_blank\">Github</a>",
   "<br>"
-];
+]
 
 project_10 = [
   "<br>",
-  "<span class=\"command\">Project 10:</span> Weather Forecasting Windows Application",
-  "<span class=\"command\">Description:</span> This is a windows application which is used to forecast the weather of a particular city.",
-  "              It uses the OpenWeatherMap API to fetch the weather data and display it to the user.",
-  "<span class=\"command\">Technologies Used:</span> Python, OpenWeatherMap API",
-  "<span class=\"command\">GitHub Link:</span> <a href=\"https://github.com/Shabari-K-S/Weather_forecasting_gui_python\" target=\"_blank\">Weather Forecasting Windows Application</a>",
+  "Project: House Price Prediction using python",
+  "Technologies used: Python",
+  "Source Code: <a href=\"https://github.com/Shabari-K-S/House-Price-Prediction\" target=\"_blank\">Github</a>",
   "<br>"
-];
+]
 
 project_11 = [
   "<br>",
-  "<span class=\"command\">Project 11:</span> Phishing Page Detection using Python and Machine Learning",
-  "<span class=\"command\">Description:</span> This is a python program which is used to detect phishing pages using Machine Learning.",
-  "<span class=\"command\">Technologies Used:</span> Python, Machine Learning, Streamlit",
-  "<span class=\"command\">GitHub Link:</span> <a href=\"https://github.com/Shabari-K-S/phishing_detection_streamlit\" target=\"_blank\">Phishing Page Detection using Python and Machine Learning</a>",
+  "Project: Steganography using Python",
+  "Technologies used: Python",
+  "Source Code: <a href=\"https://github.com/Shabari-K-S/Steganography\" target=\"_blank\">Github</a>",
   "<br>"
-];
+]
 
 project_12 = [
   "<br>",
-  "<span class=\"command\">Project 12:</span> Movie Recommendation System using Python",
-  "<span class=\"command\">Description:</span> This is a python program which is used to recommend movies to ",
-  "              the user based on the movie that the user has watched.",
-  "<span class=\"command\">Technologies Used:</span> Python, Machine Learning, Streamlit",
-  "<span class=\"command\">GitHub Link:</span> <a href=\"https://github.com/Shabari-K-S/movie-recomndation-system\" target=\"_blank\">Movie Recommendation System using Python</a>",
+  "Project: Phishing Website Detection using Python (Streamlit)",
+  "Technologies used: Python, Streamlit",
+  "Source Code: <a href=\"https://github.com/Shabari-K-S/phishing_detection_streamlit\" target=\"_blank\">Github</a>",
   "<br>"
-];
+]
 
 project_13 = [
   "<br>",
-  "<span class=\"command\">Project 13:</span> House price prediction using Python and Machine Learning",
-  "<span class=\"command\">Description:</span> This is a python program which is used to predict the price of a ",
-  "              house based on the features of the house.",
-  "<span class=\"command\">Technologies Used:</span> Python, Machine Learning, Streamlit",
-  "<span class=\"command\">GitHub Link:</span> <a href=\"https://github.com/Shabari-K-S/House-Price-Prediction\" target=\"_blank\">House price prediction using Python and Machine Learning</a>",
+  "Project: Student Mark and Placement Prediction using Python (Streamlit)",
+  "Technologies used: Python, Streamlit",
+  "Source Code: <a href=\"https://github.com/Shabari-K-S/Student-Mark-prediction\" target=\"_blank\">Github</a>",
   "<br>"
-];
+]
 
 project_14 = [
   "<br>",
-  "<span class=\"command\">Project 14:</span> Student Mark Prediction using Python and Machine Learning",
-  "<span class=\"command\">Description:</span> This is a python program which is used to predict the marks of a student",
-  "              based on the number of hours the student has studied.",
-  "<span class=\"command\">Technologies Used:</span> Python, Machine Learning, Streamlit",
-  "<span class=\"command\">GitHub Link:</span> <a href=\"https://github.com/Shabari-K-S/Student-Mark-prediction\" target=\"_blank\">Student Mark Prediction using Python and Machine Learning</a>",
+  "Project: Portfolio Website using HTML, CSS and JavaScript (This Website)",
+  "Technologies used: HTML, CSS, JavaScript",
+  "Source Code: <a href=\"https://github.com/Shabari-K-S/s0urc3c0d3_website\" target=\"_blank\">Github</a>",
   "<br>"
-];
+]
 
 project_15 = [
   "<br>",
-  "<span class=\"command\">Project 15:</span> Doctor Appointment System using Python",
-  "<span class=\"command\">Description:</span> This is a python program which is used to create a doctor appointment system.",
-  "              For more detail click the link below. you will be redirected to the app.",
-  "<span class=\"command\">Technologies Used:</span> Python, Streamlit",
-  "<span class=\"command\">App Link:</span> <a href=\"https://shabari-k-s-doc-appointment-app-vwk2em.streamlit.app\" target=\"_blank\">Doctor Appointment System using Python</a>",
+  "Project: JARVIS AI a System Assistant for linux using Python",
+  "Description: This project is a simple system assistant that allows users to interact with the system. ",
+  "             The assistant uses Python and various libraries to provide information and perform tasks. ",
+  "             The assistant can perform tasks such as opening applications, searching the web, and providing information. ",
+  "Technologies used: Python",
+  "Source Code: <a href=\"https://github.com/Shabari-K-S/JARVIS-AI\" target=\"_blank\">Github</a>",
   "<br>"
-];
+]
+
+project_16 = [
+  "<br>",
+  "Project: WebStorm a Web Framework using Python (Simple HTTP Server)",
+  "Description: This project is a simple web framework that allows users to create and host their own websites. ",
+  "Technologies used: Python",
+  "Source Code: <a href=\"https://github.com/Shabari-K-S/webstorm\" target=\"_blank\">Github</a>",
+  "<br>"
+]
 
 whois = [
     "<br>",
@@ -188,22 +188,23 @@ projects = [
   "<br>",
   "<span class=\"command\">id            Project</span>",
   "==            =======",
+  "1             Encryption and Decryption using python (Ceaser Cipher)",  
+  "2             ChatRoom using html, css, javascript and firebase",
+  "3             Weather Forecast using Python (Tkinter) and openweathermap api",
+  "4             Student Registration form using Python (CustomTkinter)",
+  "5             Google Search Page Clone using HTML, CSS and JavaScript",
+  "6             Instagram Login Page Clone using HTML, CSS and JavaScript",
+  "7             Correcting Grammatical Error using python",
+  "8             Weather Forecasting App using python (Flet) for Mobile",
+  "9             Movie Recommendation System using python",
+  "10            House Price Prediction using python",
+  "11            Steganography using Python",
+  "12            Phishing Website Detection using Python (Streamlit)",
+  "13            Student Mark and Placement Prediction using Python (Streamlit)",
+  "14            Portfolio Website using HTML, CSS and JavaScript (This Website)",
+  "15            JARVIS AI a System Assistant for linux using Python",
+  "16            WebStorm a Web Framework using Python (Simple HTTP Server)",
   "<br>",
-  "1             Encryption and Decryption of Messages using Python",
-  "2             Calculator using tkinter",
-  "3             Notepad using tkinter",
-  "4             Simple Login Page using tkinter",
-  "5             Google Search Engine Clone using HTML and CSS",
-  "6             Instagram Login Clone using HTML and CSS",
-  "7             Mi Calculator WebApp",
-  "8             Morse Code Translator using Python",
-  "9             Twitter Clone using HTML and CSS",
-  "10            Weather Forecasting Windows Application",
-  "11            Phishing Page Detection using Python and Machine Learning",
-  "12            Movie Recommendation System using Python",
-  "13            House price prediction using Python and Machine Learning",
-  "14            Student Mark Prediction using Python and Machine Learning",
-  "15            Doctor Appointment System using Python",
   "<br>"
 ];
 
