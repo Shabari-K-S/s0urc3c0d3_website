@@ -110,6 +110,12 @@ function commander(cmd) {
     case "skills":
       loopLines(skills, "color2 margin", 80);
       break;
+    case "project":
+      loopLines(project_help_open, "color2 margin", 80);
+      break;
+    case "project --help":
+      loopLines(project_help, "color2 margin", 80);
+      break;
     case "project --id 1":
       loopLines(project_1, "color2 margin", 80);
       break;

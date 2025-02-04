@@ -148,6 +148,21 @@ project_16 = [
   "<br>"
 ]
 
+project_help = [
+  "<br>",
+  "project: Help",
+  "command: project --id [id]",
+  "Example: project --id 1",
+  "<br>"
+]
+
+project_help_open = [
+  "<br>",
+  "<spaMissing command: project",
+  "Type 'project --help' to see the help for the project command",
+  "<br>"
+]
+
 whois = [
     "<br>",
     "I am Shabari K S, a Computer Science student and a self-taught programmer. I am passionate about learning new technologies and",
@@ -222,7 +237,7 @@ help = [
     "history         See command history",
     "banner          See the banner",
     "help            See this list",
-    "project-id      See project details respective to the id",
+    "project --id    See project details respective to the id",
     "skills          See my skills",
     "<br>"
 ];
